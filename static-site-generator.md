@@ -3,6 +3,7 @@ Static Site Generator
 
 ## Node
   * http://assemble.io/
+  * http://docpad.org/
 
 ## Ruby
   * http://nanoc.ws/
